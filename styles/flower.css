@@ -15,6 +15,7 @@ body{
     padding-top: 50px;
 }
 .header-content{
+    padding-top: 100px;
     width: 708px;
 }
 .header-heading{
@@ -43,4 +44,40 @@ body{
     padding-top: 50px;
     width: 635px;
     height: 800px;
+}
+/*middle part*/
+.middle-head{
+    padding-top: 178px;
+    text-align: center;
+}
+.middle-heading{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.middle-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+.middle-flowers{
+    display: flex;
+    gap: 24px;
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.pink-flower-1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.flower-1{
+    width: 310px;
+    height: 428px;
 }
