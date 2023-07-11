@@ -45,6 +45,25 @@ body{
     width: 635px;
     height: 800px;
 }
+.nav-bar{
+    display: flex;
+    background-color: #fc88a1;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 150px;
+    padding: 50px;
+    border-radius: 15px;
+    text-align: center;
+}
+.nav-bar a{
+    margin-left: 100px;
+    text-decoration: none;
+    justify-content: center;
+    padding-left: 300px;
+    font-size: 30px;
+    color: rgb(137, 23, 23);
+    font-weight: 900;
+}
 /*middle part*/
 .middle-head{
     padding-top: 178px;
