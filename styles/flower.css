@@ -240,6 +240,13 @@ body{
     height: 64px;
     margin-left: 287px;
     border: none;
+    color: rgba(39, 39, 39, 0.60);
+    padding-left: 22px;
+    font-size: 16px;
+    font-weight: 400;
+}
+#button{
+    margin-left: 16px;
 }
 footer{
     width:max-content;
@@ -272,4 +279,7 @@ footer{
     text-align: center;
     font-size: 16px;
     font-weight: 400;
+}
+#footer-heading-extra{
+    color: #FFF;
 }
