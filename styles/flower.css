@@ -159,6 +159,8 @@ body{
     background: rgba(229, 84, 115, 0.05);
     display: flex;
     gap: 215px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 #main-heading{
     padding-top: 230px;
@@ -171,11 +173,8 @@ body{
     display: flex;
     width: 594px;
     text-align: center;
-    font-family: Lato;
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 30px;
     padding-left: 295px;
 }
 #bar-button{
@@ -243,9 +242,13 @@ body{
     border: none;
 }
 footer{
-    width: 1922px;
+    width:max-content;
     height: 449px;
     background: #111010;
+    width: 1922px;
+    height: 449px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 .footer-heading{
     color: #E55473;
