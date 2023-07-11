@@ -50,10 +50,11 @@ body{
     background-color: #fc88a1;
     margin-top: 100px;
     margin-left: 200px;
-    margin-right: 150px;
-    padding: 50px;
+    padding-top: 100px;
     border-radius: 15px;
     text-align: center;
+    height: 150px;
+    width: 1900px;
 }
 .nav-bar a{
     margin-left: 100px;
